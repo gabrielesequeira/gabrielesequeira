@@ -1,52 +1,48 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+github!;Hello!!+%7C+I'm+Gabi)](https://git.io/typing-svg)
- 
- <p> Sometimes I’m just decorating this place, and sometimes I actually write some code. !
- </p>
-<div>
- <img src="https://media.giphy.com/media/l1JohcS6r2oTawvnO/giphy.gif?cid=790b7611rl846onv48lsx5iu4nufwasgbdnb7v7mpnk1ihf0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="400" align="right" />
-</div>
-
-### 🔧 Tools and Technologies:
-
-#### **Front-end:**
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</div>
-
-#### **Back-end:**
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> 
-</div>
-
-#### **Database:**
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
-</div>
-
-#### **Tools:**
-<div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> 
-
+<div align="center">
+  <h1> 	💻 - Gabriele Sequeira</h1>
 </div>
 
 
-### 📊 GitHub Stats:
-<div>
-    <img alight = "left" src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true&theme=merko" alt="Thiago's GitHub Stats" width="500"/> 
-    <img alight= "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact&theme=merko" alt="Most Used Languages" width="300"/>
+###  Tools & Technologies
+
+<table align="center" ">
+  <tr>
+    <td align="center"><strong>Front-end</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+    </td>
+    <td align="center"><strong>Back-end</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+    </td>
+        <td align="center"><strong>Database & Data</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40"/>
+    </td>
+        <td align="center"><strong>Tools</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+    </td>
+  </tr>
+</table>
+
+
+###  GitHub Stats
+
+<div align="center">
+ <div>
+  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true&theme=merko" width="400" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact&theme=merko" width="300" />
+
 </div>
 
- 
+</div>
