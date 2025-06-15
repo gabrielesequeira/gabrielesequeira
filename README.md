@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 	💻 - Gabriele Sequeira</h1>
+  <h1>Gabriele Sequeira</h1>
 </div>
 
 
