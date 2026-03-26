@@ -8,8 +8,8 @@
 <table align="center">
   <tr>
     <td align="center"><strong>Segurança & Pentest</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="40" title="Linux"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" width="40" title="Nmap"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="40" title="Kalilinux"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" width="40" title="windows8"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" width="40" title="Metasploit"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
     </td>
