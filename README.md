@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gabriele Sequeira</h1>
-  <p>Iniciando carreira em Segurança da Informação | Cibersegurança | Estágio</p>
+  <p>Ciência da Compiutação | Cibersegurança | DevSecOps </p>
 </div>
 
 ### 🛡️ Skills & Tools
@@ -36,8 +36,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
- <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true&theme=merko" width="400" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact&theme=merko" width="300" />
-</div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true&theme=merko" width="450" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact&theme=merko" width="350" alt="Top Languages" />
+
 </div>
