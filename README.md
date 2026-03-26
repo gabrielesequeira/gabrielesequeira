@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gabriele Sequeira</h1>
-  <p>Ciência da Compiutação | Cibersegurança | DevSecOps </p>
+  <p><b>Ciência da Compiutação | Cibersegurança | DevSecOps </b></p>
 </div>
 
 ### 🛡️ Skills & Tools
@@ -37,10 +37,10 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true&theme=merko" width="450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true" width="450" alt="GitHub Stats" />
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact&theme=merko" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact" width="350" alt="Top Languages" />
 
 </div>
