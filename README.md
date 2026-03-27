@@ -1,14 +1,10 @@
 <div align="center">
   <h1>👨‍💻 Gabriele Sequeira</h1>
-  <p><b>🛡️ Cybersecurity | 🔐 DevSecOps | 💻 Computer Science</b></p>
+  <p><b> Cybersecurity |  DevSecOps |  Computer Science</b></p>
   
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Progress;DevSecOps+Learner;Always+Learning...&center=true&width=500&height=45" />
 </div>
 
-<div align="center">
-  <h1>Gabriele Sequeira</h1>
-  <p><b>Ciência da Compiutação | Cibersegurança | DevSecOps </b></p>
-</div>
 
 ### Skills & Tools
 
