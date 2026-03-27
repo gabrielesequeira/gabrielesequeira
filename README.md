@@ -1,12 +1,10 @@
 <div align="center">
   <h1> Gabriele Sequeira</h1>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+|+DevSecOps+|+Computer+Science&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+|+DevSecOps+|+Computer+Science....&center=true&width=500&height=45" />
 </div>
 
-<div align="center">
-<h3><b>Skills & Tools</b></h3>
-</div>
+###>Skills & Tools
 
 
 <table align="center">
