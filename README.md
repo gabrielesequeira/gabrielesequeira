@@ -2,7 +2,7 @@
   <h1> Gabriele Sequeira</h1>
   <p><b> Segurança Cibernética |  DevSecOps |  Ciência da Computação</b></p>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersegurança&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cyberseguranca&center=true&width=500&height=45" />
 </div>
 
 <div align="center">
