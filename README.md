@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Gabriele Sequeira</h1>
   
-  <img src="https://readme-typing-svg.demolab.com/?lines=dfhCybersecurity+|+DevSecOps+|+Computer+Science...&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=dfh+Cybersecurity+|+DevSecOps+|+Computer+Science...&center=true&width=500&height=45" />
 </div>
 
 ###Skills & Tools
