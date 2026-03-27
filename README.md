@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-### Skills & Tools
+<h1><b>Skills & Tools</b></h1>
 </div>
 
 
