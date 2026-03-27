@@ -5,8 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity&center=true&width=500&height=45" />
 </div>
 
-
+<div align="center">
 ### Skills & Tools
+</div>
+
 
 <table align="center">
   <tr>
