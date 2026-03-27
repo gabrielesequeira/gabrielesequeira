@@ -3,7 +3,7 @@
   <p><b>Ciência da Compiutação | Cibersegurança | DevSecOps </b></p>
 </div>
 
-### 🛡️ Skills & Tools
+### Skills & Tools
 
 <table align="center">
   <tr>
@@ -33,14 +33,3 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielesequeira&show_icons=true" width="450" alt="GitHub Stats" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielesequeira&layout=compact" width="350" alt="Top Languages" />
-
-</div>
